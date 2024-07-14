@@ -2,7 +2,7 @@
 unbiased dimension reduction
 
 In this code, I create a figure of subplot to demonstrate the steps in the algorithm for t-SNE. 
-Under guidance of Dr. Vargas in the Systems Modeling Infectious Disease (SMID) Lab, this figure is to be used as reference in Latex notes for "Foundations of Machine Learning" course taught at University of Idaho and Shanghai University. 
+Under guidance of Dr. Vargas in the Systems Medicine Infectious Disease (SMID) Lab, this figure is to be used as reference in Latex notes for "Foundations of Machine Learning" course taught at University of Idaho and Shanghai University. 
 
 Each sublpot is defined in a function. There are global variables for the input data, and subsequent manipulations, while each function has it's own local variable to handle the iterations. 
 
